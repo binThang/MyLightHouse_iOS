@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>LeanOnMe.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<true/>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>NotificationServiceExtension.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>8</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>D20CDCC51FE79E8E00024DBA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D20CDCE91FE7A29A00024DBA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D20CDCFE1FE7A54500024DBA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D24054981F96EA680099E9EA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D24054AC1F96EA680099E9EA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D24054B71F96EA680099E9EA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D2F559251FE8E1E900DCBA85</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,6 @@
+framework module Pods_LeanOnMeTests {
+  umbrella header "Pods-LeanOnMeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
